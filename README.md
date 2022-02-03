@@ -5,6 +5,8 @@ Predict if an individual should buy or sell their stock for a company based on T
 
 ## Step 1: Access the Data
 - Download data from Kaggle for Twitter Comments 2017 and Time Series stock prices 2017
+- [Kaggle Twitter](https://www.kaggle.com/thoughtvector/customer-support-on-twitter)
+- [Kaggle Ticker Prices](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
 
 ## Step 2: Data Cleaning
 - Twitter Data:
